@@ -1,9 +1,9 @@
-<h1 align="center">Nome do Repositório</h1>
+<h1 align="center">Crazy_Mage - Ultimate_Challenge</h1>
 
 
 
 <div align="center">
-  <strong>🚀 Descrição do Repositório 📚</strong>
+  <strong>🚀 Projeto para disciplina de Jogos Digitais I - Uni-FACEF 📚</strong>
 </div>
 
 <div align="center">
