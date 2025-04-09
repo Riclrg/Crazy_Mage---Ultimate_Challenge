@@ -26,12 +26,12 @@
 
 - Construct 3 – Engine para criação de jogos 2D baseada em HTML5 e lógica visual por eventos.
 
-<p> Construct 3:
+<p> -- Construct 3:
 🌐 https://www.construct.net/
 
 - Firebase (Realtime Database) – Banco de dados em tempo real para registro de pontuação e ranking.
 
-<p> Firebase (Google):
+<p> -- Firebase (Google):
 🌐 https://firebase.google.com/
 
 
