@@ -55,8 +55,9 @@ A terceira imagem mostra o painel do Realtime Database do Firebase, onde é poss
 
 ![image](https://github.com/user-attachments/assets/49fbda74-6966-4501-81c7-b5a1cd0a6e00)
 
-<div align="center>
 ## 🎮 Link do Game
-
+<div align="center>
+  
 https://www.construct.net/en/free-online-games/crazy-mage-ultimate-challenge-75493/play
+
 </div>
