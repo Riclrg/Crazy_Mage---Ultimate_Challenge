@@ -39,7 +39,7 @@ Firebase (Realtime Database) – Banco de dados em tempo real para registro de p
 
 1. 🧙 Tela Inicial do Jogo
 
-A primeira imagem representa a tela de início da partida, onde o jogador já pode ver o personagem principal — um mago azul — pronto para a ação. No canto superior esquerdo, é exibido o placar inicial com o texto "Score: 0" e as instruções para movimentação e ataque: "Use arrow keys to move and click to shoot!".
+A primeira imagem representa a tela de início da partida, onde o jogador já pode ver o personagem principal — o Crazy Mage — pronto para a ação. No canto superior esquerdo, é exibido o placar inicial com o texto "Score: 0" e as instruções para movimentação e ataque: "Use arrow keys to move and click to shoot!".
 
 ![image](https://github.com/user-attachments/assets/28ea92f6-4bfd-4691-b56d-7ae150c1a960)
 
@@ -55,4 +55,4 @@ A terceira imagem mostra o painel do Realtime Database do Firebase, onde é poss
 
 ![image](https://github.com/user-attachments/assets/49fbda74-6966-4501-81c7-b5a1cd0a6e00)
 
-
+## 🎮 Link do Game
