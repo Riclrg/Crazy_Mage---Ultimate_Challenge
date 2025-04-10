@@ -58,4 +58,5 @@ A terceira imagem mostra o painel do Realtime Database do Firebase, onde é poss
 
 ## 🎮 Link do Game
 
+Crazy Mage - Ultimate Challenge
 https://www.construct.net/en/free-online-games/crazy-mage-ultimate-challenge-75493/play
